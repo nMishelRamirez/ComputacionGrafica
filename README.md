@@ -32,7 +32,7 @@ Antes de ejecutar el proyecto asegúrate de tener instalado:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/ComputacionGrafica.git
+git clone https://github.com/nMishelRamirez/ComputacionGrafica.git
 ```
 
 2. Abrir la solución en Visual Studio.
